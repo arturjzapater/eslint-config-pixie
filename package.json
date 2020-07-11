@@ -10,7 +10,7 @@
     "url": "https://github.com/arturjzapater/eslint-config-pixie"
   },
   "homepage": "https://github.com/arturjzapater/eslint-config-pixie#README",
-  "dependencies": {
+  "peerDependencies": {
     "eslint": "^7.4.0"
   }
 }
