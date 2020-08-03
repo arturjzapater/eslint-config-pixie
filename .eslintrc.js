@@ -1,8 +1,9 @@
 module.exports = {
     env: {
-		browser: true,
+        browser: true,
         commonjs: true,
         es6: true,
+        mocha: true,
         node: true,
     },
     extends: 'eslint:recommended',
@@ -22,6 +23,7 @@ module.exports = {
             objects: 'always-multiline',
         }],
         'eol-last': [ 'error', 'always' ],
+        'no-mixed-spaces-and-tabs': [ 'error', 'smart-tabs' ],
         'no-prototype-builtins': 0,
         'no-unused-vars': [ 'error', {
             args: 'after-used',
