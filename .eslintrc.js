@@ -25,6 +25,7 @@ module.exports = {
         'eol-last': [ 'error', 'always' ],
         'no-mixed-spaces-and-tabs': [ 'error', 'smart-tabs' ],
         'no-prototype-builtins': 0,
+        'no-trailing-spaces': 'error',
         'no-unused-vars': [ 'error', {
             args: 'after-used',
             'argsIgnorePattern': '^_',

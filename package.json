@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pixie",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My personal eslint rules",
   "main": "index.js",
   "author": "Artur J Zapater",
