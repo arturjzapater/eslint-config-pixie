@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pixie",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My personal eslint rules",
   "main": "index.js",
   "author": "Artur J Zapater",
@@ -11,6 +11,6 @@
   },
   "homepage": "https://github.com/arturjzapater/eslint-config-pixie#README",
   "peerDependencies": {
-    "eslint": "^7.4.0"
+    "eslint": "^7.0.0 || ^8.0.0"
   }
 }
